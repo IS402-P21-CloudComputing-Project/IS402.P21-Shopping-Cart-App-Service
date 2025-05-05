@@ -1,4 +1,9 @@
 # Spring Boot Shopping Cart Web App
+## Source
+
+This project is based on the original repository by [Original Author](https://github.com/jaiswaladi246/Ekart).
+
+All credits go to the original author for the initial implementation.
 
 ## About
 
